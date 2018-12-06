@@ -1,0 +1,13 @@
+global-style:
+  version: VERSION
+  css:
+    base:
+      css/machine_name.base.css: {}
+    layout:
+      css/machine_name.layout.css: {}
+    component:
+      css/machine_name.component.css: {}
+    theme:
+      css/machine_name.theme.css: {}
+  js:
+    js/machine_name.theme.js: {}

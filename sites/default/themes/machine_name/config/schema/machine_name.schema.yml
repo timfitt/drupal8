@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Developer Theme theme.
+
+machine_name.settings:
+  type: theme_settings
+  label: 'Developer Theme settings'
